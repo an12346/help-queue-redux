@@ -61,6 +61,8 @@ describe('ticketListReducer', () => { //grouping together related tests
 
 });
 
+
+
 //Reducer need to know two things:
 //-What is the current state
 //What action should be applied to that thing?
